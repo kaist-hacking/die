@@ -1,0 +1,14 @@
+name: ' Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)'
+entries:
+- edition: 24th
+  year: 2013
+  month: oct
+  address: Indianapolis, IN
+- edition: 15th
+  year: 2004
+  month: oct
+  address: Vancouver, Canada
+- edition: 27th
+  year: 2016
+  month: 'oct # {--} # nov'
+  address: Amsterdam, Netherlands

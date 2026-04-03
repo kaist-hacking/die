@@ -1,0 +1,84 @@
+name: ' ACM Symposium on Operating Systems Principles (SOSP)'
+entries:
+- edition: 3rd
+  year: 1972
+  month: mar
+- edition: 5th
+  year: 1975
+  month: nov
+  address: Austin, TX
+- edition: 6th
+  year: 1977
+  address: West Lafayette, IN
+- edition: 8th
+  year: 1981
+  month: dec
+  address: Pacific Grove, CA
+- edition: 9th
+  year: 1983
+- edition: 10th
+  year: 1985
+  month: Dec
+  address: Orcas Island, WA
+- edition: 12th
+  year: 1989
+- edition: 13th
+  year: 1991
+  month: Oct
+  address: Pacific Grove, CA
+- edition: 14th
+  year: 1993
+  month: dec
+  address: Asheville, NC
+- edition: 15th
+  year: 1995
+  month: dec
+  address: Copper Mountain, CO
+- edition: 16th
+  year: 1997
+  month: oct
+  address: Saint-Malo, France
+- edition: 17th
+  year: 1999
+  month: dec
+  address: Kiawa Island, SC
+- edition: 18th
+  year: 2001
+  month: oct
+  address: Chateau Lake Louise, Banff, Canada
+- edition: 19th
+  year: 2003
+  month: oct
+  address: Bolton Landing, NY
+- edition: 20th
+  year: 2005
+  month: oct
+  address: Brighton, UK
+- edition: 21st
+  year: 2007
+  month: oct
+  address: Stevenson, WA
+- edition: 22nd
+  year: 2009
+  month: oct
+  address: Big Sky, MT
+- edition: 23rd
+  year: 2011
+  month: oct
+  address: Cascais, Portugal
+- edition: 24th
+  year: 2013
+  month: nov
+  address: Farmington, PA
+- edition: 25th
+  year: 2015
+  month: oct
+  address: Monterey, CA
+- edition: 26th
+  year: 2017
+  month: oct
+  address: Shanghai, China
+- edition: 27th
+  year: 2019
+  month: oct
+  address: Ontario, Canada

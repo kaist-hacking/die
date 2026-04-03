@@ -1,0 +1,14 @@
+name: ' ACM SIGCOMM'
+entries:
+- edition: 15th
+  year: 2004
+  month: 'aug # {--} # sep'
+  address: Portland, OR
+- edition: 17th
+  year: 2006
+  month: aug
+  address: Stanford, CA
+- edition: '2015'
+  year: 2015
+  month: aug
+  address: London, United Kingdom

@@ -1,0 +1,86 @@
+name: ' ACM Conference on Computer and Communications Security (CCS)'
+entries:
+- edition: 2nd
+  year: 1994
+  month: nov
+  address: Fairfax, VA
+- edition: 7th
+  year: 2000
+  month: oct
+  address: Athens, Greece
+- edition: 10th
+  year: 2003
+  month: oct
+  address: Washington, DC
+- edition: 11th
+  year: 2004
+  month: oct
+  address: Washington, DC
+- edition: 12th
+  year: 2005
+  month: nov
+  address: Alexandria, VA
+- edition: 13th
+  year: 2006
+  month: 'oct # {--} # nov'
+  address: Alexandria, VA
+- edition: 14th
+  year: 2007
+  month: 'oct # {--} # nov'
+  address: Alexandria, VA
+- edition: 16th
+  year: 2009
+  month: nov
+  address: Chicago, IL
+- edition: 17th
+  year: 2010
+  month: nov
+  address: Chicago, IL
+- edition: 18th
+  year: 2011
+  month: oct
+  address: Chicago, Illinois
+- edition: 19th
+  year: 2012
+  month: oct
+  address: Raleigh, NC
+- edition: 20th
+  year: 2013
+  month: oct
+  address: Berlin, Germany
+- edition: 21st
+  year: 2014
+  month: nov
+  address: Scottsdale, AZ
+- edition: 22nd
+  year: 2015
+  month: oct
+  address: Denver, CO
+- edition: 23rd
+  year: 2016
+  month: oct
+  address: Vienna, Austria
+- edition: 24th
+  year: 2017
+  month: 'oct # {--} # nov'
+  address: Dallas, TX
+- edition: 25th
+  year: 2018
+  month: oct
+  address: Toronto, ON, Canada
+- edition: 26th
+  year: 2019
+  month: nov
+  address: London, UK
+- edition: 27th
+  year: 2020
+  month: nov
+  address: Virtual
+- edition: 28th
+  year: 2021
+  month: nov
+  address: Virtual
+- edition: 29th
+  year: 2022
+  month: nov
+  address: Los Angeles, CA

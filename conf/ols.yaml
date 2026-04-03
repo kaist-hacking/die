@@ -1,0 +1,16 @@
+name: ' Linux Symposium '
+title: 'POT # {conf}'
+key_digits: 4
+entries:
+- year: 2002
+  month: jun
+  address: Ottawa, Canada
+- year: 2004
+  month: jun
+  address: Ottawa, Canada
+- year: 2007
+  month: jun
+  address: Ottawa, Canada
+- year: 2012
+  month: jul
+  address: Ottawa, Canada

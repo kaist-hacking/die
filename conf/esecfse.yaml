@@ -1,0 +1,18 @@
+name: ''
+title: "POT # {{ {esec_edition} }} # ESEC # {{ / }} # {{ {edition} }} # FSE"
+entries:
+- esec_edition: 10th
+  edition: 13th
+  year: 2005
+  month: sep
+  address: Lisbon, Portugal
+- esec_edition: 18th
+  edition: 21st
+  year: 2013
+  month: aug
+  address: Saint Petersburg, Russia
+- esec_edition: 18th
+  edition: 31st
+  year: 2023
+  month: dec
+  address: California, USA

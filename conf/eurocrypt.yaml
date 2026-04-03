@@ -1,0 +1,10 @@
+name: ' Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT)'
+entries:
+- edition: 18th
+  year: 1999
+  month: may
+  address: Prague, Czech Republic
+- edition: 28th
+  year: 2009
+  month: apr
+  address: Cologne, Germany

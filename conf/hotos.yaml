@@ -1,0 +1,8 @@
+name: ' USENIX Workshop on Hot Topics in Operating Systems (HotOS)'
+title: '{{ {edition} }} # {conf} # {{ {suffix} }}'
+entries:
+- edition: 15th
+  year: 2015
+  month: may
+  address: Kartause Ittingen, Switzerland
+  suffix: (HotOS XV)

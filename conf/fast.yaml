@@ -1,0 +1,8 @@
+name: ' USENIX Conference on File and Storage Technologies (FAST)'
+title: '{{ {edition} }} # {conf} # {{ {suffix} }}'
+entries:
+- edition: 13th
+  year: 2015
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 15)

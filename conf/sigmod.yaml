@@ -1,0 +1,34 @@
+name: ' ACM SIGMOD/PODS Conference'
+entries:
+- edition: '2002'
+  year: 2002
+  month: jun
+  address: Madison, WI
+- edition: '2004'
+  year: 2004
+  month: jun
+  address: Paris, France
+- edition: '2008'
+  year: 2008
+  month: jun
+  address: Vancouver, Canada
+- edition: '2009'
+  year: 2009
+  month: 'jun # {--} # jul'
+  address: Providence, RI
+- edition: '2010'
+  year: 2010
+  month: jun
+  address: Indianapolis, IN
+- edition: '2011'
+  year: 2011
+  month: jun
+  address: Athens, Greece
+- edition: '2014'
+  year: 2014
+  month: jun
+  address: Snowbird, Utah, USA
+- edition: '2015'
+  year: 2015
+  month: may
+  address: Melbourne, Victoria, Australia

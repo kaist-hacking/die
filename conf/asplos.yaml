@@ -1,0 +1,58 @@
+name: ' ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)'
+entries:
+- edition: 10th
+  year: 2002
+  month: oct
+  address: San Jose, CA
+- edition: 12th
+  year: 2006
+  month: oct
+  address: San Jose, CA
+- edition: 13th
+  year: 2008
+  month: mar
+  address: Seattle, WA
+- edition: 14th
+  year: 2009
+  month: mar
+  address: Washington, DC
+- edition: 16th
+  year: 2011
+  month: mar
+  address: Newport Beach, CA
+- edition: 17th
+  year: 2012
+  month: mar
+  address: London, UK
+- edition: 18th
+  year: 2013
+  month: mar
+  address: Houston, TX
+- edition: 20th
+  year: 2015
+  month: mar
+  address: Istanbul, Turkey
+- edition: 21st
+  year: 2016
+  month: apr
+  address: Atlanta, GA
+- edition: 22nd
+  year: 2017
+  month: apr
+  address: Xi'an, China
+- edition: 23rd
+  year: 2018
+  month: mar
+  address: Williamsburg, VA
+- edition: 24th
+  year: 2019
+  month: apr
+  address: Providence, RI
+- edition: 28th
+  year: 2023
+  month: mar
+  address: Vancover, Canada
+- edition: 29th
+  year: 2024
+  month: apr
+  address: San Diego, CA

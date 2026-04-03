@@ -1,0 +1,38 @@
+name: ' International Conference on Very Large Data Bases (VLDB)'
+entries:
+- edition: 26th
+  year: 2000
+  month: sep
+  address: Cairo, Egypt
+- edition: 28th
+  year: 2002
+  month: aug
+  address: Hong Kong, China
+- edition: 30th
+  year: 2004
+  month: 'aug # {--} # sep'
+  address: Toronto, Canada
+- edition: 31st
+  year: 2005
+  month: 'aug # {--} # sep'
+  address: Trondheim, Norway
+- edition: 32nd
+  year: 2006
+  month: sep
+  address: Seoul, Korea
+- edition: 33rd
+  year: 2007
+  month: sep
+  address: Vienna, Austria
+- edition: 36th
+  year: 2010
+  month: sep
+  address: Singapore
+- edition: 39th
+  year: 2013
+  month: aug
+  address: Riva del Garda, Italy
+- edition: 46th
+  year: 2020
+  month: aug
+  address: Tokyo, Japan

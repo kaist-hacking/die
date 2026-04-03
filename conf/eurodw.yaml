@@ -1,0 +1,7 @@
+name: ' EuroSys Doctoral Workshop (EuroDW) '
+title: '{{ {edition} }} # {conf}'
+entries:
+- edition: 12th
+  year: 2018
+  month: apr
+  address: Porto, Portugal

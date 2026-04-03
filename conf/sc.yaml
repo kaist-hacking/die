@@ -1,0 +1,13 @@
+name: ' International Conference for High Performance Computing, Networking, Storage and Analysis (SC)'
+title: "POT # {{ {edition} }} # {conf} # {{ {suffix} }}"
+entries:
+- edition: '2014'
+  year: 2014
+  month: nov
+  address: New Orleans, LA
+  suffix: "(SC'14)"
+- edition: '2015'
+  year: 2015
+  month: nov
+  address: Austin, TX
+  suffix: "(SC'15)"

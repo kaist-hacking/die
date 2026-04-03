@@ -1,0 +1,14 @@
+name: ' International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)'
+entries:
+- edition: 4th
+  year: 1998
+  month: 'mar # {--} # apr'
+  address: Lisbon, Portugal
+- edition: 14th
+  year: 2008
+  month: 'mar # {--} # apr'
+  address: Budapest, Hungary
+- edition: 15th
+  year: 2009
+  month: mar
+  address: York, UK

@@ -1,0 +1,42 @@
+name: ' International Conference on Software Engineering (ICSE)'
+entries:
+- edition: 29th
+  year: 2007
+  month: may
+  address: Minneapolis, MN
+- edition: 30th
+  year: 2008
+  month: may
+  address: Leipzig, Germany
+- edition: 33th
+  year: 2011
+  month: may
+  address: Honolulu, HI
+- edition: 34th
+  year: 2012
+  month: jun
+  address: Zurich, Switzerland
+- edition: 35th
+  year: 2013
+  month: may
+  address: San Francisco, CA
+- edition: 36th
+  year: 2014
+  month: 'may # {--} # jun'
+  address: Hyderabad, India
+- edition: 43rd
+  year: 2021
+  month: may
+  address: Madrid, Spain
+- edition: 44th
+  year: 2022
+  month: may
+  address: Pittsburgh, USA
+- edition: 45th
+  year: 2023
+  month: may
+  address: Melbourne, Australia
+- edition: 46th
+  year: 2024
+  month: apr
+  address: Lisbon, Portugal

@@ -1,0 +1,125 @@
+name: ' USENIX Annual Technical Conference (ATC)'
+entries:
+- edition: '{S}ummer 1985'
+  year: 1985
+  address: Portland, OR
+  key_suffix: S
+- edition: '{S}ummer 1986'
+  year: 1986
+  key_suffix: S
+- edition: '{W}inter 1988'
+  year: 1988
+  address: Dallas, TX
+  key_suffix: W
+- edition: '{W}inter 1989'
+  year: 1989
+  key_suffix: W
+- edition: '{W}inter 1990'
+  year: 1990
+  address: Colorado Springs, CO
+  key_suffix: W
+- edition: '{S}ummer 1990'
+  year: 1990
+  address: Anaheim, CA
+  key_suffix: S
+- edition: '{W}inter 1991'
+  year: 1991
+  key_suffix: W
+- edition: '{W}inter 1992'
+  year: 1992
+  month: jan
+  key_suffix: W
+- edition: '{W}inter 1993'
+  year: 1993
+  month: jan
+  address: San Diego, CA
+  key_suffix: W
+- edition: '{S}ummer 1993'
+  year: 1993
+  month: apr
+  key_suffix: S
+- edition: '{W}inter 1994'
+  year: 1994
+  month: jan
+  address: San Francisco, CA
+  key_suffix: W
+- edition: '1997'
+  year: 1997
+  month: jan
+- edition: '1999'
+  year: 1999
+  month: jun
+- edition: '2000'
+  year: 2000
+  month: jun
+- edition: '2001'
+  year: 2001
+  month: jun
+- edition: '2002'
+  year: 2002
+  month: jun
+  address: Monterey, CA
+- edition: '2003'
+  year: 2003
+  month: jun
+  address: San Antonio, TX
+- edition: '2004'
+  year: 2004
+  month: 'jun # {--} # jul'
+  address: Boston, MA
+- edition: '2005'
+  year: 2005
+  month: jun
+  address: Anaheim, CA
+- edition: '2006'
+  year: 2006
+  month: 'may # {--} # jun'
+  address: Boston, MA
+- edition: '2007'
+  year: 2007
+  month: jun
+  address: Santa Clara, CA
+- edition: '2008'
+  year: 2008
+  month: jun
+  address: Boston, MA
+- edition: '2009'
+  year: 2009
+  month: jun
+  address: San Diego, CA
+- edition: '2010'
+  year: 2010
+  month: jun
+  address: Boston, MA
+- edition: '2012'
+  year: 2012
+  month: jun
+  address: Boston, MA
+- edition: '2013'
+  year: 2013
+  month: jun
+  address: San Jose, CA
+- edition: '2014'
+  year: 2014
+  month: jun
+  address: Philadelphia, PA
+- edition: '2015'
+  year: 2015
+  month: jul
+  address: Santa Clara, CA
+- edition: '2016'
+  year: 2016
+  month: jun
+  address: Denver, CO
+- edition: '2017'
+  year: 2017
+  month: jul
+  address: Santa Clara, CA
+- edition: '2018'
+  year: 2018
+  month: jul
+  address: Boston, MA
+- edition: '2019'
+  year: 2019
+  month: jul
+  address: Renton, WA

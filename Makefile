@@ -87,4 +87,7 @@ distclean: clean ## clean up completely
 abstract.txt: abstract.tex $(MAIN).tex ## generate abstract.txt
 	@bin/mkabstract $(MAIN).tex $< | fmt -w72 > $@
 
-.PHONY: all help FORCE draft clean spell distclean init bib
+gen-bib: ## regenerate conf.bib from conf/*.yaml
+	python3 scripts/gen_conf_bib.py
+
+.PHONY: all help FORCE draft clean spell distclean init bib gen-bib

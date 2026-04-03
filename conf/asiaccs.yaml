@@ -1,0 +1,10 @@
+name: ' ACM Symposium on Information, Computer and Communications Security (ASIACCS)'
+entries:
+- edition: 4th
+  year: 2009
+  month: mar
+  address: Sydney, Australia
+- edition: 11th
+  year: 2016
+  month: 'may # {--} # jun'
+  address: Xi'an, China

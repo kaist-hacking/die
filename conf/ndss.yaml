@@ -1,0 +1,70 @@
+name: ' Annual Network and Distributed System Security Symposium (NDSS)'
+entries:
+- edition: 11th
+  year: 2004
+  month: feb
+  address: San Diego, CA
+- edition: 14th
+  year: 2007
+  month: 'feb # {--} # mar'
+  address: San Diego, CA
+- edition: 15th
+  year: 2008
+  month: feb
+  address: San Diego, CA
+- edition: 16th
+  year: 2009
+  month: feb
+  address: San Diego, CA
+- edition: 17th
+  year: 2010
+  month: 'feb # {--} # mar'
+  address: San Diego, CA
+- edition: 18th
+  year: 2011
+  month: feb
+  address: San Diego, CA
+- edition: 19th
+  year: 2012
+  month: feb
+  address: San Diego, CA
+- edition: '2014'
+  year: 2014
+  month: feb
+  address: San Diego, CA
+- edition: '2015'
+  year: 2015
+  month: feb
+  address: San Diego, CA
+- edition: '2016'
+  year: 2016
+  month: feb
+  address: San Diego, CA
+- edition: '2017'
+  year: 2017
+  month: feb
+  address: San Diego, CA
+- edition: '2018'
+  year: 2018
+  month: feb
+  address: San Diego, CA
+- edition: '2019'
+  year: 2019
+  month: feb
+  address: San Diego, CA
+- edition: '2020'
+  year: 2020
+  month: feb
+  address: San Diego, CA
+- edition: '2021'
+  year: 2021
+  month: feb
+  address: Virtual
+- edition: '2022'
+  year: 2022
+  month: feb
+  address: San Diego, CA
+- edition: '2023'
+  year: 2023
+  month: 'feb # {--} # mar'
+  address: San Diego, CA

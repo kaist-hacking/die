@@ -1,0 +1,54 @@
+name: ' USENIX Symposium on Networked Systems Design and Implementation (NSDI)'
+entries:
+- edition: 1st
+  year: 2004
+  month: mar
+  address: San Francisco, CA
+- edition: 2nd
+  year: 2005
+  month: may
+  address: Boston, MA
+- edition: 3rd
+  year: 2006
+  month: may
+  address: San Jose, CA
+- edition: 4th
+  year: 2007
+  month: apr
+  address: Cambridge, MA
+- edition: 5th
+  year: 2008
+  month: apr
+  address: San Francisco, CA
+- edition: 6th
+  year: 2009
+  month: apr
+  address: Boston, MA
+- edition: 7th
+  year: 2010
+  month: apr
+  address: San Jose, CA
+- edition: 9th
+  year: 2012
+  month: apr
+  address: San Jose, CA
+- edition: 10th
+  year: 2013
+  month: apr
+  address: Lombard, IL
+- edition: 11th
+  year: 2014
+  month: mar
+  address: Seattle, WA
+- edition: 12th
+  year: 2015
+  month: may
+  address: Oakland, CA
+- edition: 13th
+  year: 2016
+  month: mar
+  address: Santa Clara, CA
+- edition: 14th
+  year: 2017
+  month: mar
+  address: Boston, MA
