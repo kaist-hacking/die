@@ -52,6 +52,14 @@ entries:
   year: 1994
   month: may
   address: Oakland, CA
+- edition: 16th
+  year: 1995
+  month: may
+  address: Oakland, CA
+- edition: 17th
+  year: 1996
+  month: may
+  address: Oakland, CA
 - edition: 18th
   year: 1997
   month: may
@@ -68,7 +76,7 @@ entries:
   year: 2000
   month: may
   address: Oakland, CA
-- edition: 22st
+- edition: 22nd
   year: 2001
   month: may
   address: Oakland, CA
@@ -104,7 +112,7 @@ entries:
   year: 2009
   month: may
   address: Oakland, CA
-- edition: 31th
+- edition: 31st
   year: 2010
   month: may
   address: Oakland, CA
@@ -152,7 +160,23 @@ entries:
   year: 2021
   month: may
   address: San Francisco, CA
+- edition: 43rd
+  year: 2022
+  month: may
+  address: San Francisco, CA
 - edition: 44th
   year: 2023
+  month: may
+  address: San Francisco, CA
+- edition: 45th
+  year: 2024
+  month: may
+  address: San Francisco, CA
+- edition: 46th
+  year: 2025
+  month: may
+  address: San Francisco, CA
+- edition: 47th
+  year: 2026
   month: may
   address: San Francisco, CA

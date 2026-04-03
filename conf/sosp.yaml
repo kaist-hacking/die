@@ -41,7 +41,7 @@ entries:
 - edition: 17th
   year: 1999
   month: dec
-  address: Kiawa Island, SC
+  address: Kiawah Island, SC
 - edition: 18th
   year: 2001
   month: oct
@@ -81,4 +81,20 @@ entries:
 - edition: 27th
   year: 2019
   month: oct
-  address: Ontario, Canada
+  address: Huntsville, Ontario, Canada
+- edition: 28th
+  year: 2021
+  month: oct
+  address: Virtual Event
+- edition: 29th
+  year: 2023
+  month: oct
+  address: Koblenz, Germany
+- edition: 30th
+  year: 2024
+  month: nov
+  address: Austin, TX
+- edition: 31st
+  year: 2025
+  month: oct
+  address: Seoul, Republic of Korea

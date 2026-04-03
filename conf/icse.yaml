@@ -1,5 +1,53 @@
 name: ' International Conference on Software Engineering (ICSE)'
 entries:
+- edition: 17th
+  year: 1995
+  month: apr
+  address: Seattle, WA
+- edition: 18th
+  year: 1996
+  month: mar
+  address: Berlin, Germany
+- edition: 19th
+  year: 1997
+  month: may
+  address: Boston, MA
+- edition: 20th
+  year: 1998
+  month: apr
+  address: Kyoto, Japan
+- edition: 21st
+  year: 1999
+  month: may
+  address: Los Angeles, CA
+- edition: 22nd
+  year: 2000
+  month: jun
+  address: Limerick, Ireland
+- edition: 23rd
+  year: 2001
+  month: may
+  address: Toronto, Canada
+- edition: 24th
+  year: 2002
+  month: may
+  address: Orlando, FL
+- edition: 25th
+  year: 2003
+  month: may
+  address: Portland, OR
+- edition: 26th
+  year: 2004
+  month: may
+  address: Edinburgh, United Kingdom
+- edition: 27th
+  year: 2005
+  month: may
+  address: St. Louis, MO
+- edition: 28th
+  year: 2006
+  month: may
+  address: Shanghai, China
 - edition: 29th
   year: 2007
   month: may
@@ -8,7 +56,15 @@ entries:
   year: 2008
   month: may
   address: Leipzig, Germany
-- edition: 33th
+- edition: 31st
+  year: 2009
+  month: may
+  address: Vancouver, Canada
+- edition: 32nd
+  year: 2010
+  month: may
+  address: Cape Town, South Africa
+- edition: 33rd
   year: 2011
   month: may
   address: Honolulu, HI
@@ -24,6 +80,30 @@ entries:
   year: 2014
   month: 'may # {--} # jun'
   address: Hyderabad, India
+- edition: 37th
+  year: 2015
+  month: may
+  address: Florence, Italy
+- edition: 38th
+  year: 2016
+  month: may
+  address: Austin, TX
+- edition: 39th
+  year: 2017
+  month: may
+  address: Buenos Aires, Argentina
+- edition: 40th
+  year: 2018
+  month: 'may # {--} # jun'
+  address: Gothenburg, Sweden
+- edition: 41st
+  year: 2019
+  month: may
+  address: Montreal, Canada
+- edition: 42nd
+  year: 2020
+  month: 'jun # {--} # jul'
+  address: Virtual
 - edition: 43rd
   year: 2021
   month: may
@@ -40,3 +120,11 @@ entries:
   year: 2024
   month: apr
   address: Lisbon, Portugal
+- edition: 47th
+  year: 2025
+  month: 'apr # {--} # may'
+  address: Ottawa, Canada
+- edition: 48th
+  year: 2026
+  month: apr
+  address: Rio de Janeiro, Brazil

@@ -10,11 +10,11 @@ entries:
   address: Lisbon, Portugal
 - edition: 3rd
   year: 2008
-  month: mar
+  month: apr
   address: Glasgow, Scotland
 - edition: 4th
   year: 2009
-  month: mar
+  month: apr
   address: Nuremberg, Germany
 - edition: 5th
   year: 2010
@@ -47,8 +47,40 @@ entries:
 - edition: 12th
   year: 2017
   month: apr
-  address: Belgrade, RS
+  address: Belgrade, Serbia
 - edition: 13th
   year: 2018
   month: apr
   address: Porto, Portugal
+- edition: 14th
+  year: 2019
+  month: mar
+  address: Dresden, Germany
+- edition: 15th
+  year: 2020
+  month: apr
+  address: Virtual
+- edition: 16th
+  year: 2021
+  month: apr
+  address: Virtual
+- edition: 17th
+  year: 2022
+  month: apr
+  address: Rennes, France
+- edition: 18th
+  year: 2023
+  month: may
+  address: Rome, Italy
+- edition: 19th
+  year: 2024
+  month: apr
+  address: Athens, Greece
+- edition: 20th
+  year: 2025
+  month: mar
+  address: Rotterdam, The Netherlands
+- edition: 21st
+  year: 2026
+  month: apr
+  address: Edinburgh, UK

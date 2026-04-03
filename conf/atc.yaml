@@ -43,9 +43,21 @@ entries:
   month: jan
   address: San Francisco, CA
   key_suffix: W
+- edition: '1995'
+  year: 1995
+  month: jan
+  address: New Orleans, LA
+- edition: '1996'
+  year: 1996
+  month: jan
+  address: San Diego, CA
 - edition: '1997'
   year: 1997
   month: jan
+- edition: '1998'
+  year: 1998
+  month: jun
+  address: New Orleans, LA
 - edition: '1999'
   year: 1999
   month: jun
@@ -91,6 +103,10 @@ entries:
   year: 2010
   month: jun
   address: Boston, MA
+- edition: '2011'
+  year: 2011
+  month: jun
+  address: Portland, OR
 - edition: '2012'
   year: 2012
   month: jun
@@ -123,3 +139,31 @@ entries:
   year: 2019
   month: jul
   address: Renton, WA
+- edition: '2020'
+  year: 2020
+  month: jul
+  address: Virtual
+- edition: '2021'
+  year: 2021
+  month: jul
+  address: Virtual
+- edition: '2022'
+  year: 2022
+  month: jul
+  address: Carlsbad, CA
+- edition: '2023'
+  year: 2023
+  month: jul
+  address: Boston, MA
+- edition: '2024'
+  year: 2024
+  month: jul
+  address: Santa Clara, CA
+- edition: '2025'
+  year: 2025
+  month: jul
+  address: Boston, MA
+- edition: '2026'
+  year: 2026
+  month: jul
+  address: Seattle, WA

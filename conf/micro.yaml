@@ -1,6 +1,130 @@
 name: ' Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)'
 entries:
+- edition: 28th
+  year: 1995
+  month: nov
+  address: Ann Arbor, MI
+- edition: 29th
+  year: 1996
+  month: dec
+  address: Paris, France
+- edition: 30th
+  year: 1997
+  month: dec
+  address: Research Triangle Park, NC
+- edition: 31st
+  year: 1998
+  month: nov
+  address: Dallas, TX
+- edition: 32nd
+  year: 1999
+  month: nov
+  address: Haifa, Israel
+- edition: 33rd
+  year: 2000
+  month: dec
+  address: Monterey, CA
+- edition: 34th
+  year: 2001
+  month: dec
+  address: Austin, TX
+- edition: 35th
+  year: 2002
+  month: nov
+  address: Istanbul, Turkey
+- edition: 36th
+  year: 2003
+  month: dec
+  address: San Diego, CA
+- edition: 37th
+  year: 2004
+  month: dec
+  address: Portland, OR
+- edition: 38th
+  year: 2005
+  month: nov
+  address: Barcelona, Spain
+- edition: 39th
+  year: 2006
+  month: dec
+  address: Orlando, FL
+- edition: 40th
+  year: 2007
+  month: dec
+  address: Chicago, IL
+- edition: 41st
+  year: 2008
+  month: nov
+  address: Lake Como, Italy
+- edition: 42nd
+  year: 2009
+  month: dec
+  address: New York, NY
+- edition: 43rd
+  year: 2010
+  month: dec
+  address: Atlanta, GA
+- edition: 44th
+  year: 2011
+  month: dec
+  address: Porto Alegre, Brazil
+- edition: 45th
+  year: 2012
+  month: dec
+  address: Vancouver, BC, Canada
+- edition: 46th
+  year: 2013
+  month: dec
+  address: Davis, CA
+- edition: 47th
+  year: 2014
+  month: dec
+  address: Cambridge, UK
 - edition: 48th
   year: 2015
   month: dec
   address: Waikiki, Hawaii
+- edition: 49th
+  year: 2016
+  month: oct
+  address: Taipei, Taiwan
+- edition: 50th
+  year: 2017
+  month: oct
+  address: Cambridge, MA
+- edition: 51st
+  year: 2018
+  month: oct
+  address: Fukuoka, Japan
+- edition: 52nd
+  year: 2019
+  month: oct
+  address: Columbus, OH
+- edition: 53rd
+  year: 2020
+  month: oct
+  address: Virtual
+- edition: 54th
+  year: 2021
+  month: oct
+  address: Virtual
+- edition: 55th
+  year: 2022
+  month: oct
+  address: Chicago, IL
+- edition: 56th
+  year: 2023
+  month: oct
+  address: Toronto, ON, Canada
+- edition: 57th
+  year: 2024
+  month: nov
+  address: Austin, TX
+- edition: 58th
+  year: 2025
+  month: oct
+  address: Seoul, Korea
+- edition: 59th
+  year: 2026
+  month: oct
+  address: Athens, Greece

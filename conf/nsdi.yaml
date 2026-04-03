@@ -28,6 +28,10 @@ entries:
   year: 2010
   month: apr
   address: San Jose, CA
+- edition: 8th
+  year: 2011
+  month: mar
+  address: Boston, MA
 - edition: 9th
   year: 2012
   month: apr
@@ -38,7 +42,7 @@ entries:
   address: Lombard, IL
 - edition: 11th
   year: 2014
-  month: mar
+  month: apr
   address: Seattle, WA
 - edition: 12th
   year: 2015
@@ -52,3 +56,39 @@ entries:
   year: 2017
   month: mar
   address: Boston, MA
+- edition: 15th
+  year: 2018
+  month: apr
+  address: Renton, WA
+- edition: 16th
+  year: 2019
+  month: feb
+  address: Boston, MA
+- edition: 17th
+  year: 2020
+  month: feb
+  address: Santa Clara, CA
+- edition: 18th
+  year: 2021
+  month: apr
+  address: Virtual
+- edition: 19th
+  year: 2022
+  month: apr
+  address: Renton, WA
+- edition: 20th
+  year: 2023
+  month: apr
+  address: Boston, MA
+- edition: 21st
+  year: 2024
+  month: apr
+  address: Santa Clara, CA
+- edition: 22nd
+  year: 2025
+  month: apr
+  address: Philadelphia, PA
+- edition: 23rd
+  year: 2026
+  month: may
+  address: Renton, WA

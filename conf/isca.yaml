@@ -2,15 +2,131 @@ name: ' ACM/IEEE International Symposium on Computer Architecture (ISCA)'
 entries:
 - edition: 20th
   year: 1993
+- edition: 22nd
+  year: 1995
+  month: jun
+  address: Santa Margherita Ligure, Italy
+- edition: 23rd
+  year: 1996
+  month: may
+  address: Philadelphia, PA
+- edition: 24th
+  year: 1997
+  month: jun
+  address: Denver, CO
+- edition: 25th
+  year: 1998
+  month: jun
+  address: Barcelona, Spain
+- edition: 26th
+  year: 1999
+  month: may
+  address: Atlanta, GA
+- edition: 27th
+  year: 2000
+  month: jun
+  address: Vancouver, BC, Canada
+- edition: 28th
+  year: 2001
+  month: jun
+  address: Gothenburg, Sweden
+- edition: 29th
+  year: 2002
+  month: may
+  address: Anchorage, AK
+- edition: 30th
+  year: 2003
+  month: jun
+  address: San Diego, CA
+- edition: 31st
+  year: 2004
+  month: jun
+  address: Munich, Germany
+- edition: 32nd
+  year: 2005
+  month: jun
+  address: Madison, WI
+- edition: 33rd
+  year: 2006
+  month: jun
+  address: Boston, MA
+- edition: 34th
+  year: 2007
+  month: jun
+  address: San Diego, CA
+- edition: 35th
+  year: 2008
+  month: jun
+  address: Beijing, China
+- edition: 36th
+  year: 2009
+  month: jun
+  address: Austin, TX
 - edition: 37th
   year: 2010
   month: jun
-  address: San Jose, California, USA
+  address: Saint-Malo, France
 - edition: 38th
   year: 2011
   month: jun
   address: San Jose, California, USA
+- edition: 39th
+  year: 2012
+  month: jun
+  address: Portland, OR
+- edition: 40th
+  year: 2013
+  month: jun
+  address: Tel Aviv, Israel
 - edition: 41st
   year: 2014
   month: jun
   address: Minneapolis, MN
+- edition: 42nd
+  year: 2015
+  month: jun
+  address: Portland, OR
+- edition: 43rd
+  year: 2016
+  month: jun
+  address: Seoul, South Korea
+- edition: 44th
+  year: 2017
+  month: jun
+  address: Toronto, ON, Canada
+- edition: 45th
+  year: 2018
+  month: jun
+  address: Los Angeles, CA
+- edition: 46th
+  year: 2019
+  month: jun
+  address: Phoenix, AZ
+- edition: 47th
+  year: 2020
+  month: jun
+  address: Valencia, Spain
+- edition: 48th
+  year: 2021
+  month: jun
+  address: Virtual
+- edition: 49th
+  year: 2022
+  month: jun
+  address: New York, NY
+- edition: 50th
+  year: 2023
+  month: jun
+  address: Orlando, FL
+- edition: 51st
+  year: 2024
+  month: jun
+  address: Buenos Aires, Argentina
+- edition: 52nd
+  year: 2025
+  month: jun
+  address: Tokyo, Japan
+- edition: 53rd
+  year: 2026
+  month: jun
+  address: Raleigh, NC

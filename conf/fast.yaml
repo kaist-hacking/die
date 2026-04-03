@@ -1,8 +1,123 @@
 name: ' USENIX Conference on File and Storage Technologies (FAST)'
 title: '{{ {edition} }} # {conf} # {{ {suffix} }}'
 entries:
+- edition: 1st
+  year: 2002
+  month: jan
+  address: Monterey, CA
+  suffix: (FAST 02)
+- edition: 2nd
+  year: 2003
+  month: mar
+  address: San Francisco, CA
+  suffix: (FAST 03)
+- edition: 3rd
+  year: 2004
+  month: mar
+  address: San Francisco, CA
+  suffix: (FAST 04)
+- edition: 4th
+  year: 2005
+  month: dec
+  address: San Francisco, CA
+  suffix: (FAST 05)
+- edition: 5th
+  year: 2007
+  month: feb
+  address: San Jose, CA
+  suffix: (FAST 07)
+- edition: 6th
+  year: 2008
+  month: feb
+  address: San Jose, CA
+  suffix: (FAST 08)
+- edition: 7th
+  year: 2009
+  month: feb
+  address: San Francisco, CA
+  suffix: (FAST 09)
+- edition: 8th
+  year: 2010
+  month: feb
+  address: San Jose, CA
+  suffix: (FAST 10)
+- edition: 9th
+  year: 2011
+  month: feb
+  address: San Jose, CA
+  suffix: (FAST 11)
+- edition: 10th
+  year: 2012
+  month: feb
+  address: San Jose, CA
+  suffix: (FAST 12)
+- edition: 11th
+  year: 2013
+  month: feb
+  address: San Jose, CA
+  suffix: (FAST 13)
+- edition: 12th
+  year: 2014
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 14)
 - edition: 13th
   year: 2015
   month: feb
   address: Santa Clara, CA
   suffix: (FAST 15)
+- edition: 14th
+  year: 2016
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 16)
+- edition: 15th
+  year: 2017
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 17)
+- edition: 16th
+  year: 2018
+  month: feb
+  address: Oakland, CA
+  suffix: (FAST 18)
+- edition: 17th
+  year: 2019
+  month: feb
+  address: Boston, MA
+  suffix: (FAST 19)
+- edition: 18th
+  year: 2020
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 20)
+- edition: 19th
+  year: 2021
+  month: feb
+  address: Virtual
+  suffix: (FAST 21)
+- edition: 20th
+  year: 2022
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 22)
+- edition: 21st
+  year: 2023
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 23)
+- edition: 22nd
+  year: 2024
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 24)
+- edition: 23rd
+  year: 2025
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 25)
+- edition: 24th
+  year: 2026
+  month: feb
+  address: Santa Clara, CA
+  suffix: (FAST 26)

@@ -1,5 +1,81 @@
 name: ' IEEE Symposium on High Performance Computer Architecture (HPCA)'
 entries:
+- edition: 1st
+  year: 1995
+  month: jan
+  address: Raleigh, NC
+- edition: 2nd
+  year: 1996
+  month: feb
+  address: San Jose, CA
+- edition: 3rd
+  year: 1997
+  month: feb
+  address: San Antonio, TX
+- edition: 4th
+  year: 1998
+  month: feb
+  address: Las Vegas, NV
+- edition: 5th
+  year: 1999
+  month: jan
+  address: Orlando, FL
+- edition: 6th
+  year: 2000
+  month: jan
+  address: Toulouse, France
+- edition: 7th
+  year: 2001
+  month: jan
+  address: Monterrey, Mexico
+- edition: 8th
+  year: 2002
+  month: feb
+  address: Boston, MA
+- edition: 9th
+  year: 2003
+  month: feb
+  address: Anaheim, CA
+- edition: 10th
+  year: 2004
+  month: feb
+  address: Madrid, Spain
+- edition: 11th
+  year: 2005
+  month: feb
+  address: San Francisco, CA
+- edition: 12th
+  year: 2006
+  month: feb
+  address: Austin, TX
+- edition: 13th
+  year: 2007
+  month: feb
+  address: Phoenix, AZ
+- edition: 14th
+  year: 2008
+  month: feb
+  address: Salt Lake City, UT
+- edition: 15th
+  year: 2009
+  month: feb
+  address: Raleigh, NC
+- edition: 16th
+  year: 2010
+  month: jan
+  address: Bangalore, India
+- edition: 17th
+  year: 2011
+  month: feb
+  address: San Antonio, TX
+- edition: 18th
+  year: 2012
+  month: feb
+  address: New Orleans, LA
+- edition: 19th
+  year: 2013
+  month: feb
+  address: Shenzhen, China
 - edition: 20th
   year: 2014
   month: feb
@@ -7,4 +83,48 @@ entries:
 - edition: 21st
   year: 2015
   month: feb
-  address: San Francisco, CA
+  address: Burlingame, CA
+- edition: 22nd
+  year: 2016
+  month: mar
+  address: Barcelona, Spain
+- edition: 23rd
+  year: 2017
+  month: feb
+  address: Austin, TX
+- edition: 24th
+  year: 2018
+  month: feb
+  address: Vienna, Austria
+- edition: 25th
+  year: 2019
+  month: feb
+  address: Washington, DC
+- edition: 26th
+  year: 2020
+  month: feb
+  address: San Diego, CA
+- edition: 27th
+  year: 2021
+  month: feb
+  address: Virtual
+- edition: 28th
+  year: 2022
+  month: apr
+  address: Seoul, South Korea
+- edition: 29th
+  year: 2023
+  month: feb
+  address: Montreal, QC, Canada
+- edition: 30th
+  year: 2024
+  month: mar
+  address: Edinburgh, UK
+- edition: 31st
+  year: 2025
+  month: mar
+  address: Las Vegas, NV
+- edition: 32nd
+  year: 2026
+  month: jan
+  address: Sydney, Australia

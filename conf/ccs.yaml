@@ -4,10 +4,34 @@ entries:
   year: 1994
   month: nov
   address: Fairfax, VA
+- edition: 3rd
+  year: 1996
+  month: mar
+  address: New Delhi, India
+- edition: 4th
+  year: 1997
+  month: apr
+  address: Zurich, Switzerland
+- edition: 5th
+  year: 1998
+  month: nov
+  address: San Francisco, CA
+- edition: 6th
+  year: 1999
+  month: nov
+  address: Singapore
 - edition: 7th
   year: 2000
-  month: oct
+  month: nov
   address: Athens, Greece
+- edition: 8th
+  year: 2001
+  month: nov
+  address: Philadelphia, PA
+- edition: 9th
+  year: 2002
+  month: nov
+  address: Washington, DC
 - edition: 10th
   year: 2003
   month: oct
@@ -28,13 +52,17 @@ entries:
   year: 2007
   month: 'oct # {--} # nov'
   address: Alexandria, VA
+- edition: 15th
+  year: 2008
+  month: oct
+  address: Alexandria, VA
 - edition: 16th
   year: 2009
   month: nov
   address: Chicago, IL
 - edition: 17th
   year: 2010
-  month: nov
+  month: oct
   address: Chicago, IL
 - edition: 18th
   year: 2011
@@ -46,7 +74,7 @@ entries:
   address: Raleigh, NC
 - edition: 20th
   year: 2013
-  month: oct
+  month: nov
   address: Berlin, Germany
 - edition: 21st
   year: 2014
@@ -84,3 +112,19 @@ entries:
   year: 2022
   month: nov
   address: Los Angeles, CA
+- edition: 30th
+  year: 2023
+  month: nov
+  address: Copenhagen, Denmark
+- edition: 31st
+  year: 2024
+  month: oct
+  address: Salt Lake City, UT
+- edition: 32nd
+  year: 2025
+  month: oct
+  address: Taipei, Taiwan
+- edition: 33rd
+  year: 2026
+  month: nov
+  address: The Hague, The Netherlands

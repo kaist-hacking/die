@@ -1,5 +1,9 @@
 name: ' USENIX Security Symposium (Security)'
 entries:
+- edition: 5th
+  year: 1995
+  month: jun
+  address: Salt Lake City, UT
 - edition: 6th
   year: 1996
   month: jul
@@ -8,6 +12,14 @@ entries:
   year: 1998
   month: jan
   address: San Antonio, TX
+- edition: 8th
+  year: 1999
+  month: aug
+  address: Washington, DC
+- edition: 9th
+  year: 2000
+  month: aug
+  address: Denver, CO
 - edition: 10th
   year: 2001
   month: aug
@@ -20,13 +32,17 @@ entries:
   year: 2003
   month: aug
   address: Washington, DC
+- edition: 13th
+  year: 2004
+  month: aug
+  address: San Diego, CA
 - edition: 14th
   year: 2005
   month: aug
   address: Baltimore, MD
 - edition: 15th
   year: 2006
-  month: jul
+  month: 'jul # {--} # aug'
   address: Vancouver, Canada
 - edition: 16th
   year: 2007
@@ -52,7 +68,7 @@ entries:
   year: 2012
   month: aug
   address: Bellevue, WA
-- edition: 22th
+- edition: 22nd
   year: 2013
   month: aug
   address: Washington, DC
@@ -96,3 +112,15 @@ entries:
   year: 2023
   month: aug
   address: Anaheim, CA
+- edition: 33rd
+  year: 2024
+  month: aug
+  address: Philadelphia, PA
+- edition: 34th
+  year: 2025
+  month: aug
+  address: Seattle, WA
+- edition: 35th
+  year: 2026
+  month: aug
+  address: Baltimore, MD

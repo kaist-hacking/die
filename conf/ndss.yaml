@@ -1,7 +1,51 @@
 name: ' Annual Network and Distributed System Security Symposium (NDSS)'
 entries:
+- edition: 2nd
+  year: 1995
+  month: feb
+  address: San Diego, CA
+- edition: 3rd
+  year: 1996
+  month: feb
+  address: San Diego, CA
+- edition: 4th
+  year: 1997
+  month: feb
+  address: San Diego, CA
+- edition: 5th
+  year: 1998
+  month: feb
+  address: San Diego, CA
+- edition: 6th
+  year: 1999
+  month: feb
+  address: San Diego, CA
+- edition: 7th
+  year: 2000
+  month: feb
+  address: San Diego, CA
+- edition: 8th
+  year: 2001
+  month: feb
+  address: San Diego, CA
+- edition: 9th
+  year: 2002
+  month: feb
+  address: San Diego, CA
+- edition: 10th
+  year: 2003
+  month: feb
+  address: San Diego, CA
 - edition: 11th
   year: 2004
+  month: feb
+  address: San Diego, CA
+- edition: 12th
+  year: 2005
+  month: feb
+  address: San Diego, CA
+- edition: 13th
+  year: 2006
   month: feb
   address: San Diego, CA
 - edition: 14th
@@ -28,6 +72,10 @@ entries:
   year: 2012
   month: feb
   address: San Diego, CA
+- edition: 20th
+  year: 2013
+  month: feb
+  address: San Diego, CA
 - edition: '2014'
   year: 2014
   month: feb
@@ -42,7 +90,7 @@ entries:
   address: San Diego, CA
 - edition: '2017'
   year: 2017
-  month: feb
+  month: 'feb # {--} # mar'
   address: San Diego, CA
 - edition: '2018'
   year: 2018
@@ -62,9 +110,21 @@ entries:
   address: Virtual
 - edition: '2022'
   year: 2022
-  month: feb
+  month: apr
   address: San Diego, CA
 - edition: '2023'
   year: 2023
   month: 'feb # {--} # mar'
+  address: San Diego, CA
+- edition: '2024'
+  year: 2024
+  month: 'feb # {--} # mar'
+  address: San Diego, CA
+- edition: '2025'
+  year: 2025
+  month: feb
+  address: San Diego, CA
+- edition: '2026'
+  year: 2026
+  month: feb
   address: San Diego, CA

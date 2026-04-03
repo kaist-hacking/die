@@ -1,14 +1,130 @@
 name: ' Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)'
 entries:
-- edition: 24th
-  year: 2013
+- edition: 10th
+  year: 1995
   month: oct
-  address: Indianapolis, IN
+  address: Austin, TX
+- edition: 11th
+  year: 1996
+  month: oct
+  address: San Jose, CA
+- edition: 12th
+  year: 1997
+  month: oct
+  address: Atlanta, GA
+- edition: 13th
+  year: 1998
+  month: oct
+  address: Vancouver, Canada
+- edition: 14th
+  year: 1999
+  month: nov
+  address: Denver, CO
 - edition: 15th
+  year: 2000
+  month: oct
+  address: Minneapolis, MN
+- edition: 16th
+  year: 2001
+  month: oct
+  address: Tampa Bay, FL
+- edition: 17th
+  year: 2002
+  month: nov
+  address: Seattle, WA
+- edition: 18th
+  year: 2003
+  month: oct
+  address: Anaheim, CA
+- edition: 19th
   year: 2004
   month: oct
   address: Vancouver, Canada
+- edition: 20th
+  year: 2005
+  month: oct
+  address: San Diego, CA
+- edition: 21st
+  year: 2006
+  month: oct
+  address: Portland, OR
+- edition: 22nd
+  year: 2007
+  month: oct
+  address: Montreal, Canada
+- edition: 23rd
+  year: 2008
+  month: oct
+  address: Nashville, TN
+- edition: 24th
+  year: 2009
+  month: oct
+  address: Orlando, FL
+- edition: 25th
+  year: 2010
+  month: oct
+  address: Reno, NV
+- edition: 26th
+  year: 2011
+  month: oct
+  address: Portland, OR
 - edition: 27th
+  year: 2012
+  month: oct
+  address: Tucson, AZ
+- edition: 28th
+  year: 2013
+  month: oct
+  address: Indianapolis, IN
+- edition: 29th
+  year: 2014
+  month: oct
+  address: Portland, OR
+- edition: 30th
+  year: 2015
+  month: oct
+  address: Pittsburgh, PA
+- edition: 31st
   year: 2016
   month: 'oct # {--} # nov'
   address: Amsterdam, Netherlands
+- edition: 32nd
+  year: 2017
+  month: oct
+  address: Vancouver, Canada
+- edition: 33rd
+  year: 2018
+  month: nov
+  address: Boston, MA
+- edition: 34th
+  year: 2019
+  month: oct
+  address: Athens, Greece
+- edition: 35th
+  year: 2020
+  month: nov
+  address: Virtual
+- edition: 36th
+  year: 2021
+  month: oct
+  address: Chicago, IL
+- edition: 37th
+  year: 2022
+  month: dec
+  address: Auckland, New Zealand
+- edition: 38th
+  year: 2023
+  month: oct
+  address: Cascais, Portugal
+- edition: 39th
+  year: 2024
+  month: oct
+  address: Pasadena, CA
+- edition: 40th
+  year: 2025
+  month: oct
+  address: Singapore
+- edition: 41st
+  year: 2026
+  month: oct
+  address: Oakland, CA
