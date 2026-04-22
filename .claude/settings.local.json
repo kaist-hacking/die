@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "WebSearch",
+      "WebFetch(domain:dblp.org)",
+      "WebFetch(domain:www.sigcomm.org)",
+      "WebFetch(domain:ieeetcca.org)",
+      "WebFetch(domain:www.microarch.org)",
+      "WebFetch(domain:microarch.org)",
+      "WebFetch(domain:iscaconf.org)",
+      "Bash(curl -s https://www.sigcomm.org/events/sigcomm-conference)",
+      "Bash(curl -s \"https://www.sigmod.org/publications/dblp/db/conf/sigcomm/index.html\")",
+      "WebFetch(domain:www.sigsac.org)",
+      "WebFetch(domain:www.eurosys.org)",
+      "Bash(cp /home/insu/projects/die/gg/acmart-primary/acmart.cls /home/insu/projects/die/sty/acmart.cls)",
+      "Bash(cp /home/insu/projects/die/gg/acmart-primary/ACM-Reference-Format.bst /home/insu/projects/die/sty/ACM-Reference-Format.bst)",
+      "Bash(git -C /home/insu/projects/die diff HEAD~3 HEAD -- cmds.tex)",
+      "Bash(git -C /home/insu/projects/die show HEAD -- cmds.tex)",
+      "Bash(git -C /home/insu/projects/die show 1cf1494 -- cmds.tex)",
+      "Bash(git -C /home/insu/projects/die log --oneline --all)",
+      "Bash(git -C /home/insu/projects/die show b8f8d9d --stat)"
+    ]
+  }
+}
