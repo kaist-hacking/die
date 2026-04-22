@@ -103,10 +103,14 @@
 \end{tikzpicture}}
 
 \usepackage{xstring}
-\newcommand{\PP}[1]{
-\vspace{2px}
-\noindent{\bf \IfEndWith{#1}{.}{#1}{#1.}}
-}
+% \PP uses star variant instead of \IfEndWith for auto-period.
+% \IfEndWith fails when the argument contains macros (e.g., \cc{}, \texttt{}),
+% as xstring cannot inspect unexpanded tokens for string matching.
+\makeatletter
+\newcommand{\PP}{\@ifstar{\PP@noperiod}{\PP@period}}
+\newcommand{\PP@period}[1]{\vspace{2px}\noindent{\bf #1.}}
+\newcommand{\PP@noperiod}[1]{\vspace{2px}\noindent{\bf #1}}
+\makeatother
 
 \newcommand{\PN}[1]{
 \vspace{2px}
